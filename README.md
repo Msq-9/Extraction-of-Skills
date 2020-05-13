@@ -2,7 +2,7 @@
 Extracting Skills from resume using NLP & Machine Learning techniques along with Word2Vec from gensim for Word Embeddings.
 
 ## Description
-Used Word2Vec from gensim for word embeddings after cleaning the data using NLP methods such as tokenization and stopword removal. These word embeddings were then used with K-Means Clustering in which some of the clusters contained skills (Tech, Non-tech & soft skills).
+Used Word2Vec from gensim for word embeddings after cleaning the data using NLP methods such as tokenization and stopword removal. Now, using these word embeddings K Clusters are created using K-Means Algorithm. Out of these K clusters some of them contained skills (Tech, Non-tech & soft skills).
 
 ## Prerequisites
 ### Software
